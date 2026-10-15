@@ -8,7 +8,7 @@ welcomeMessage: "Welcome",
 dateFormat: "DD.MM.YYYY",
 sortOrder: "ascending",
 accessLevel: "student",
-displayMode: "compact"
+displayMode: "minimal"
 };
 console.log("Project settings:");
 console.table(project);
